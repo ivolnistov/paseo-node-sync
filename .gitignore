@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+artifacts/
+.env
+.env.*
+*.log
+*.jsonl
+.DS_Store

@@ -1,0 +1,4 @@
+{"compilerOptions":{"target":"ES2022","lib":["ES2022"],"module":"ESNext","moduleResolution":"Bundler",
+ "jsx":"react-jsx","strict":true,"noUncheckedIndexedAccess":true,"skipLibCheck":true,"noEmit":true,
+ "allowImportingTsExtensions":true,"erasableSyntaxOnly":true,"types":["node","react"]},
+ "include":["index.*","server/**/*.ts","shared/**/*.ts","client/**/*.tsx","tests/**/*.ts"]}
